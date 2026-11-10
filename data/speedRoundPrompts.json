@@ -1,11 +1,14 @@
 {
     "prompts": [
       "What’s a topic you can explain in 1 minute that most people get wrong?",
+      "What would make this event a win for you?",
+      "What’s a mental model you use weekly that others should steal?",
+      "What’s a project you could make progress on this week with the right partner?",
+      "What’s a bottleneck you keep hitting that another person could unblock quickly?",
       "What are you trying to get better at in the next 30 days?",
       "What’s your favorite test for whether someone understands something you know well?",
       "Show me a mistake you made in your field and what it taught you.",
       "When you were younger, what was your favorite subject in school and why?",
-      "What’s a mental model you use weekly that others should steal?",
       "What lessons would you give to your younger self?",
       "What kind of help is most valuable right now, critique, practice, a plan, accountability, or intros?",
       "What’s a common bad practice in your domain, and what’s the better alternative?",
@@ -13,12 +16,9 @@
       "Where are you unusually picky about quality, and why?",
       "What’s the fastest starter path you’d give someone to get competent at something you know well?",
       "What’s a tool, method, or heuristic you trust more than most people do?",
-      "What would make this event a win for you?",
       "What’s the smallest milestone that would prove you’re improving?",
       "What have you already tried that didn’t work, and why do you think it failed?",
       "If we paired up for 2 hours, what would we ship, solve, or draft?",
-      "What’s a project you could make progress on this week with the right partner?",
-      "What’s a bottleneck you keep hitting that another person could unblock quickly?",
       "Which limitation is making your learning most difficult: lack of time, low confidence, limited access to resources, or insufficient feedback?",
       "What’s a tiny artifact you’d love to walk out of here with, a doc, outline, repo, or plan?"
     ]

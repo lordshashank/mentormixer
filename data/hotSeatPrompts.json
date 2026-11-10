@@ -1,6 +1,10 @@
 {
     "prompts": [
       "In one sentence, what are you trying to get better at in the next 30 days?",
+      "What is the riskiest unknown you need to de risk first?",
+      "What kind of person do you most want to meet here, be specific?",
+      "Where are you unusually picky about quality, and why?",
+      "What is one artifact you could share tonight that would help someone else, a link, doc, or demo?",
       "What would make tonight a win for you?",
       "What constraint is making that hard, time, confidence, access, or feedback?",
       "In one sentence, what can you teach or help with that is unusually valuable?",
@@ -14,14 +18,10 @@
       "What is the smallest milestone that would prove progress in 7 days?",
       "What kind of help do you want, critique, practice, a plan, intros, or accountability?",
       "What does good enough look like for your next step?",
-      "What is the riskiest unknown you need to de risk first?",
       "If you paired up with someone here for 2 hours, what would you ship, solve, or draft?",
       "What resource do you wish existed, template, repo, reading list, or checklist?",
-      "Where are you unusually picky about quality, and why?",
-      "What is one artifact you could share tonight that would help someone else, a link, doc, or demo?",
       "What is the best follow up format for you, a 20 minute call, async review, or a co working sprint?",
       "Name one thing you will do in the next 48 hours.",
-      "What kind of person do you most want to meet here, be specific?",
       "What is one offer you are making to the room, be specific?",
       "What is your preferred contact plus action ask, DM plus link, or a calendar hold?"
     ]

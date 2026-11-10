@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { Footer } from '@/components/Footer';
+import { SurprisePoster } from '@/components/SurprisePoster';
 
 export default function HomePage() {
   return (
@@ -51,6 +52,8 @@ export default function HomePage() {
             </p>
           </Link>
         </div>
+
+        <SurprisePoster />
       </main>
       <Footer />
     </div>
